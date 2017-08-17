@@ -9,4 +9,4 @@ add another line  to test the no ff merge & whom.
 =======
 add another line  to test the no ff merge & whom.
 >>>>>>> dev
-test git pull add a new branch dev.
+test git pull and add a new branch dev.
